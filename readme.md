@@ -16,9 +16,9 @@ OR
 
 * Download [templates/AndroidLogKotlin.xml](/templates/AndroidLogKotlin.xml) and move it into Android Studio's `templates` directory
 
-Windows: <user_home>\.AndroidStudio<version>\config\templates
-Linux: ~/.AndroidStudio<version>/config/templates
-macOS: ~/Library/Preferences/Android Studio<version>/templates
+  Windows: <user_home>\.AndroidStudio<version>\config\templates
+  Linux: ~/.AndroidStudio<version>/config/templates
+  macOS: ~/Library/Preferences/Android Studio<version>/templates
 
 The templates will be available after restarting Android Studio.
 
